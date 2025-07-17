@@ -1,5 +1,8 @@
-	a = 1;
-	b = 2;
+	int a = 0;
+	int b = 0;
+
+	cin >> a;
+    	cin >> b;
 
 	if (a > b) {
 		cout << a;
