@@ -1,6 +1,12 @@
-	int c = 0;
+#include <iostream>
+#include <cmath>
+using namespace std;
+int main()
+{
+int c = 0;
 
-	for (int n = 0; n <= 2; n++) {
-		c += n * n;
-	}
-	cout << c << endl;
+for (int n = 0; n <= 2; n++) {
+	c += n * n;
+}
+cout << c << endl;
+}
