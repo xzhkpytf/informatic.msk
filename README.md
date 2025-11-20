@@ -1,6 +1,6 @@
 # [informatic.msk](https://informatics.msk.ru/)
 
-#  [Изучение языка прогармирования](https://informatics.msk.ru/course/index.php?categoryid=355)
+#  [Изучение языка програмирования](https://informatics.msk.ru/course/index.php?categoryid=355)
 
 1. [Ввод-вывод, оператор присваивания, арифметические операции](https://informatics.msk.ru/course/view.php?id=34)
 2. [Условный оператор](https://informatics.msk.ru/course/view.php?id=7)
